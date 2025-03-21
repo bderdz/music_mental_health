@@ -1,6 +1,6 @@
 # The Impact of Music on Mental Health – Data Analysis & Predictions
 <a href="https://colab.research.google.com/drive/11GsTaQGBZH_4aYIWuq3lJP-FouoaXDdM?usp=sharing">Open in Colab</a>
-<br>
+<br><br>
 This project showcases my expertise in data analysis, visualization, and machine learning.
 It explores the relationship between music preferences, listening habits, and mental health based on survey data. Using Python and data science tools, I performed data preprocessing, exploratory data analysis (EDA), and visualization to uncover patterns in how individuals interact with music and its potential effects on mental well-being.
 
